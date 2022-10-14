@@ -1,9 +1,9 @@
 ### Oie! Tudo bem? 👋
 
-Me chamo **Romulo Eduardo**, sou Analista de Sistemas, apaixonado por tecnologia e desenvolvimento de apps.
+Sou Romulo Eduardo, Analista de Sistemas, apaixonado por tecnologia e desenvolvimento de apps.
 Aqui tem um pouco dos meus códigos, dos meus estudos e das muiiiiiiitas linhas de códigos que já construi na vida.
 
-***Me adiciona aí e vamos trocar figurinhas (e códigos)! :heart:***
+*** Me adiciona aí e vamos trocar figurinhas (e códigos)! :heart: ***
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=romuloedu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
